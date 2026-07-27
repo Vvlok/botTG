@@ -97,3 +97,4 @@ def handle_download(call):
 if __name__ == "__main__":
     print("Бот запущен...")
     bot.polling(none_stop=True)
+    
